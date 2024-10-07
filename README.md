@@ -36,6 +36,6 @@ Machine learning significantly outperforms traditional diagnostic methods, provi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ckd-risk-prediction.git
-   cd ckd-risk-prediction
+   git clone https://github.com/arunkumar2645s/CKD_prediction.git
+   cd CKD_prediction
    ```
